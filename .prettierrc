@@ -7,5 +7,6 @@
   "bracketSameLine": true,
   "printWidth": 80,
   "semi": true,
-  "trailingComma": "all"
+  "trailingComma": "all",
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
